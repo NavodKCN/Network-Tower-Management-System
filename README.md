@@ -1,7 +1,3 @@
-
-![MasterHead](https://static.sliit.lk/wp-content/uploads/2021/10/24070027/SLIIT.png)
-
-
 # Project Name - Network Tower (Site) Management System for Engenuity Telco Pvt Ltd
 # Batch - WD_B01
 ### Group Leader - IT21266300 - Mr. Bandara K.M.V.T. (IT21266300)
